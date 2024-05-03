@@ -1,1 +1,1 @@
-This file has description og Observatory-Dome-Synchronization Project.
+This file has description of Observatory-Dome-Synchronization Project.
